@@ -1,0 +1,62 @@
+{
+  "runtimeTarget": {
+    "name": ".NETStandard,Version=v2.1/",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETStandard,Version=v2.1": {},
+    ".NETStandard,Version=v2.1/": {
+      "CRM.Business/1.0.0": {
+        "dependencies": {
+          "CRM.Common": "1.0.0",
+          "CRM.EntityFramework": "1.0.0",
+          "CRM.Model": "1.0.0"
+        },
+        "runtime": {
+          "CRM.Business.dll": {}
+        }
+      },
+      "CRM.Common/1.0.0": {
+        "runtime": {
+          "CRM.Common.dll": {}
+        }
+      },
+      "CRM.EntityFramework/1.0.0": {
+        "dependencies": {
+          "CRM.Model": "1.0.0"
+        },
+        "runtime": {
+          "CRM.EntityFramework.dll": {}
+        }
+      },
+      "CRM.Model/1.0.0": {
+        "runtime": {
+          "CRM.Model.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CRM.Business/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CRM.Common/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CRM.EntityFramework/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CRM.Model/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

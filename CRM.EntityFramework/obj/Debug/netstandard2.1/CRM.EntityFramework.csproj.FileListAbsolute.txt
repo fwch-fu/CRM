@@ -1,0 +1,12 @@
+E:\CoreTest\CRM\CRM.EntityFramework\bin\Debug\netstandard2.1\CRM.EntityFramework.deps.json
+E:\CoreTest\CRM\CRM.EntityFramework\bin\Debug\netstandard2.1\CRM.EntityFramework.dll
+E:\CoreTest\CRM\CRM.EntityFramework\bin\Debug\netstandard2.1\CRM.EntityFramework.pdb
+E:\CoreTest\CRM\CRM.EntityFramework\bin\Debug\netstandard2.1\CRM.Model.dll
+E:\CoreTest\CRM\CRM.EntityFramework\bin\Debug\netstandard2.1\CRM.Model.pdb
+E:\CoreTest\CRM\CRM.EntityFramework\obj\Debug\netstandard2.1\CRM.EntityFramework.csprojAssemblyReference.cache
+E:\CoreTest\CRM\CRM.EntityFramework\obj\Debug\netstandard2.1\CRM.EntityFramework.AssemblyInfoInputs.cache
+E:\CoreTest\CRM\CRM.EntityFramework\obj\Debug\netstandard2.1\CRM.EntityFramework.AssemblyInfo.cs
+E:\CoreTest\CRM\CRM.EntityFramework\obj\Debug\netstandard2.1\CRM.EntityFramework.csproj.CoreCompileInputs.cache
+E:\CoreTest\CRM\CRM.EntityFramework\obj\Debug\netstandard2.1\CRM.EntityFramework.csproj.CopyComplete
+E:\CoreTest\CRM\CRM.EntityFramework\obj\Debug\netstandard2.1\CRM.EntityFramework.dll
+E:\CoreTest\CRM\CRM.EntityFramework\obj\Debug\netstandard2.1\CRM.EntityFramework.pdb

@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\CRM.Common\CRM.Common.csproj" />
+    <ProjectReference Include="..\CRM.EntityFramework\CRM.EntityFramework.csproj" />
+    <ProjectReference Include="..\CRM.Model\CRM.Model.csproj" />
+  </ItemGroup>
+
+</Project>

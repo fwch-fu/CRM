@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "D0mJVXf81kFJNVaMl8IKrIXt4FQctHrvVWBTG25J2ArrbEtSGKtA3Eq/X7sedZ58uO6sSgbQ2QRxVCl1GjiuTg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ASUS\\Desktop\\新建文件夹\\CRM\\新建文件夹\\CRM\\CRM.Common\\CRM.Common.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\ASUS\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

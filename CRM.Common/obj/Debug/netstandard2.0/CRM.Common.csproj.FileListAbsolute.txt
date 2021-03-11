@@ -1,0 +1,9 @@
+E:\CoreTest\CRM\CRM.Common\bin\Debug\netstandard2.0\CRM.Common.deps.json
+E:\CoreTest\CRM\CRM.Common\bin\Debug\netstandard2.0\CRM.Common.dll
+E:\CoreTest\CRM\CRM.Common\bin\Debug\netstandard2.0\CRM.Common.pdb
+E:\CoreTest\CRM\CRM.Common\obj\Debug\netstandard2.0\CRM.Common.csprojAssemblyReference.cache
+E:\CoreTest\CRM\CRM.Common\obj\Debug\netstandard2.0\CRM.Common.AssemblyInfoInputs.cache
+E:\CoreTest\CRM\CRM.Common\obj\Debug\netstandard2.0\CRM.Common.AssemblyInfo.cs
+E:\CoreTest\CRM\CRM.Common\obj\Debug\netstandard2.0\CRM.Common.csproj.CoreCompileInputs.cache
+E:\CoreTest\CRM\CRM.Common\obj\Debug\netstandard2.0\CRM.Common.dll
+E:\CoreTest\CRM\CRM.Common\obj\Debug\netstandard2.0\CRM.Common.pdb
